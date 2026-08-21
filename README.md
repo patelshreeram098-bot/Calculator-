@@ -1,7 +1,3 @@
-# Calculator-
-A simple Python-based calculator that performs basic arithmetic operations with user input.
-For your GitHub `README.md`, you can use this:
-
 # Python Calculator
 
 A simple and beginner-friendly **Calculator application built using Python**. This project performs basic mathematical operations and takes input from the user to calculate and display the result.
